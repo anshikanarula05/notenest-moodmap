@@ -1,1 +1,5 @@
-requirement.txt
+
+streamlit
+pandas
+plotly
+
